@@ -1,0 +1,11 @@
+{
+  "main": "index.html",
+  "logo": "./resources/server.png",
+  "features": [
+    {
+      "code": "服务器信息",
+      "explain": "查看服务器信息",
+      "cmds":["server", "服务器信息", "fwq"]
+    }
+  ]
+}
