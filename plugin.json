@@ -1,5 +1,5 @@
 {
-  "main": "index.html",
+  "main": "./build/index.html",
   "logo": "./resources/server.png",
   "features": [
     {
